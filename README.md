@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @MuhammadAkif92
-- 👀 I’m interested in Python, CV, DL, DS
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in Python, DL, DS, IOT/IIOT, Cloud, Web-Development
+- 🌱 I’m currently learning python and R
 - 💞️ I’m Eager to learn and collaborate on projects involving:
+      Python, R
       Data Science (NumPy, Pandas)
-      Machine Learning (TensorFlow, Scikit-learn)
+      Machine Learning (scikit-learn, TensorFlow, Pytorch)
       Data Processing (Pandas)
       Computer Vision (OpenCV)
-      Python (General scripting and application development)
       Web Development (PHP, JavaScript, HTML, CSS)
       Web Frameworks (Django, Flask, React, React Native)
 - 📫 How to reach me PM
