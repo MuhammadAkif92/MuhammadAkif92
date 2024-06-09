@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuhammadAkif92
-- 👀 I’m interested in IP CV DL DS
+- 👀 I’m interested in Python, CV, DL, DS
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on anything which relates to my interests
 - 📫 How to reach me PM
