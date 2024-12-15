@@ -2,13 +2,15 @@
 - 👀 I’m interested in Python, DL, DS, IOT/IIOT, Cloud, Web-Development
 - 🌱 I’m currently learning python and R
 - 💞️ I’m Eager to learn and collaborate on projects involving:
-      Python, R
+      Python, R, SQL
       Data Science (NumPy, Pandas)
-      Machine Learning (scikit-learn, TensorFlow, Pytorch)
       Data Processing (Pandas)
+      Web Development (Python, JavaScript, HTML, CSS)
+      Web Frameworks (Django, Flask)
+      Machine Learning (scikit-learn, TensorFlow, Pytorch)
+      
       Computer Vision (OpenCV)
-      Web Development (PHP, JavaScript, HTML, CSS)
-      Web Frameworks (Django, Flask, React, React Native)
+      
 - 📫 How to reach me PM
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Beside travelling learning programming and new tools is a hobby of mine
